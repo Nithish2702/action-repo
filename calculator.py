@@ -10,11 +10,11 @@ def add(a, b):
 
 def subtract(a, b):
     """Subtract two numbers."""
-    return a - b
+    return a - b-c
 
 def multiply(a, b):
     """Multiply two numbers."""
-    return a * b
+    return a * b *c
 
 def divide(a, b):
     """Divide two numbers."""
