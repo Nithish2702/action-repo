@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Simple Calculator
+Simple Calculatorsss
 A basic command-line calculator that performs arithmetic operations.
 """
 
 def add(a, b):
     """Add two numbers."""
-    return a + b
+    return a + b+c
 
 def subtract(a, b):
     """Subtract two numbers."""
